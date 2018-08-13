@@ -1,0 +1,8 @@
+.gradle/
+.idea/ 
+app/build/
+mscV5PlusDemo/build/ 
+mscV5PlusDemo/mscV5PlusDemo.iml 
+app/app.iml 
+local.properties
+AIUIChatDemo.iml
